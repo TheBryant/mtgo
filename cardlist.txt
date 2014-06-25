@@ -1,0 +1,78 @@
+Scalding Tarn
+Underground Sea
+Volcanic Island
+Island
+Tropical Island
+Misty Rainforest
+Snow-Covered Island
+Library of Alexandria
+Tolarian Academy
+Snapcaster Mage
+Blightsteel Colossus
+Young Pyromancer
+Dark Confidant
+Force of Will
+Mana Drain
+Mental Misstep
+Fog
+Steel Sabotage
+Gush
+Preordain
+Regrowth
+Brainstorm
+Demonic Tutor
+Ancestral Recall
+Vampiric Tutor
+Darksteel Forge
+Time Walk
+Mystical Tutor
+Yawgmoth's Will
+Tinker
+Lightning Bolt
+Flusterstorm
+Hurkyl's Recall
+Spell Pierce
+Misdirection
+Rakdos Guildgate
+Merchant Scroll
+Spell Snare
+Ponder
+Tendrils of Agony
+Thurst for Knowledge
+Abrupt Decay
+Fact or Fiction
+Toxic Deluge
+Ancient Grudge
+Jace, the Mind Sculptor
+Black Lotus
+Mox Jet
+Lobber Crew
+Mox Peral
+Mox Ruby
+Mox Emerald
+Mox Sapphire
+Time Vault
+Voltaic Key
+Sol Ring
+Mana Vault
+Mana Crypt
+Sensei's Divining Top
+Tezzeret the Seeker
+Fastbond
+Swan Song
+Mountain
+Ingot Chewer
+Nihil Spellbomb
+Yixlid Jailer
+Nature's Claim
+Rakdos Charm
+Layline of the Void
+Grafdigger's Cage
+Red Elemental Blast
+Pithing Needle
+Ravenous Trap
+Rack and Ruin
+Oath of Druids
+Forbidden Orchard
+
+Rune-Scarred Demon

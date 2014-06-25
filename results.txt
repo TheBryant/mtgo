@@ -1,0 +1,77 @@
+Scalding Tarn	29
+Underground Sea	17.85
+Volcanic Island	17.35
+Island	0
+Tropical Island	12.25
+Misty Rainforest	22.3
+Snow-Covered Island	0
+Library of Alexandria	6.2
+Tolarian Academy	5.05
+Snapcaster Mage	6
+Blightsteel Colossus	1.76
+Young Pyromancer	0
+Dark Confidant	21.5
+Force of Will	26.1
+Mana Drain	14.8
+Mental Misstep	0
+Fog	0
+Steel Sabotage	0
+Gush	0
+Preordain	0
+Regrowth	1.52
+Brainstorm	0
+Demonic Tutor	11.45
+Ancestral Recall	88.25
+Vampiric Tutor	12.95
+Darksteel Forge	0.37
+Time Walk	66
+Mystical Tutor	0
+Yawgmoth's Will	5.65
+Tinker	0
+Lightning Bolt	0
+Flusterstorm	9.95
+Hurkyl's Recall	15.7
+Spell Pierce	0
+Misdirection	42.8
+Rakdos Guildgate	0
+Merchant Scroll	0
+Spell Snare	0
+Ponder	0
+Tendrils of Agony	0
+Thurst for Knowledge	0
+Abrupt Decay	3.85
+Fact or Fiction	0
+Toxic Deluge	22.7
+Ancient Grudge	0
+Jace, the Mind Sculptor	16.6
+Black Lotus	199
+Mox Jet	73
+Lobber Crew	0
+Mox Peral	0
+Mox Ruby	67.25
+Mox Emerald	71.5
+Mox Sapphire	83.25
+Time Vault	4.2
+Voltaic Key	0
+Sol Ring	3.45
+Mana Vault	9.1
+Mana Crypt	18.55
+Sensei's Divining Top	0
+Tezzeret the Seeker	5.15
+Fastbond	2.85
+Swan Song	0.05
+Mountain	0
+Ingot Chewer	0
+Nihil Spellbomb	0
+Yixlid Jailer	0
+Nature's Claim	0
+Rakdos Charm	0
+Layline of the Void	0
+Grafdigger's Cage	2.2
+Red Elemental Blast	0
+Pithing Needle	2.2
+Ravenous Trap	0
+Rack and Ruin	0
+Oath of Druids	5.15
+Forbidden Orchard	2.2
+Rune-Scarred Demon	0.014

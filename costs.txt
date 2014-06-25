@@ -1,0 +1,81 @@
+Scalding Tarn	28.2	112.8
+Underground Sea	17.55	52.650000000000006
+Volcanic Island	17.3	34.6
+Island	0	0
+Tropical Island	12.2	24.4
+Misty Rainforest	21.9	65.69999999999999
+Snow-Covered Island	0	0
+Library of Alexandria	6.2	6.2
+Tolarian Academy	4.9	4.9
+Snapcaster Mage	5.85	17.549999999999997
+Blightsteel Colossus	1.74	1.74
+Young Pyromancer	0	0
+Dark Confidant	22.7	90.8
+Force of Will	18.6	74.4
+Mana Drain	14.35	57.4
+Mental Misstep	0	0
+Fog	0	0
+Steel Sabotage	0	0
+Gush	0	0
+Preordain	0	0
+Regrowth	1.52	4.5600000000000005
+Brainstorm	0	0
+Demonic Tutor	11.45	11.45
+Ancestral Recall	91.25	91.25
+Vampiric Tutor	11.7	11.7
+Darksteel Forge	0.37	0.37
+Time Walk	64	64.0
+Mystical Tutor	0	0
+Yawgmoth's Will	5.65	5.65
+Tinker	0	0
+Lightning Bolt	0	0
+Flusterstorm	9.8	19.6
+Hurkyl's Recall	15.25	30.5
+Spell Pierce	0	0
+Misdirection	41.6	83.2
+Rakdos Guildgate	0	0
+Merchant Scroll	0	0
+Spell Snare	0	0
+Ponder	0	0
+Tendrils of Agony	0	0
+Thurst for Knowledge	0	0
+Abrupt Decay	3.35	6.7
+Fact or Fiction	0	0
+Toxic Deluge	22.1	22.1
+Ancient Grudge	0	0
+Jace, the Mind Sculptor	16.15	32.3
+Black Lotus	185	185.0
+Mox Jet	75	75.0
+Lobber Crew	0	0
+Mox Peral	0	0
+Mox Ruby	69	69.0
+Mox Emerald	65.25	65.25
+Mox Sapphire	85.25	85.25
+Time Vault	4.2	4.2
+Voltaic Key	0	0
+Sol Ring	3.35	3.35
+Mana Vault	9.1	9.1
+Mana Crypt	18.5	18.5
+Sensei's Divining Top	0	0
+Tezzeret the Seeker	5.15	10.3
+Fastbond	2.75	2.75
+Swan Song	0.046	0.138
+Mountain	0	0
+Ingot Chewer	0	0
+Nihil Spellbomb	0	0
+Yixlid Jailer	0	0
+Nature's Claim	0	0
+Rakdos Charm	0	0
+Layline of the Void	0	0
+Grafdigger's Cage	2.15	4.3
+Red Elemental Blast	0	0
+Pithing Needle	2.2	2.2
+Ravenous Trap	0	0
+Rack and Ruin	0	0
+Oath of Druids	5.1	20.4
+Forbidden Orchard	2.15	2.15
+Rune-Scarred Demon	0.014	0.028
+
+ Missing: ["Island", "Snow-Covered Island", "Young Pyromancer", "Mental Misstep", "Fog", "Steel Sabotage", "Gush", "Preordain", "Brainstorm", "Mystical Tutor", "Tinker", "Lightning Bolt", "Spell Pierce", "Rakdos Guildgate", "Merchant Scroll", "Spell Snare", "Ponder", "Tendrils of Agony", "Thurst for Knowledge", "Fact or Fiction", "Ancient Grudge", "Lobber Crew", "Mox Peral", "Voltaic Key", "Sensei's Divining Top", "Mountain", "Ingot Chewer", "Nihil Spellbomb", "Yixlid Jailer", "Nature's Claim", "Rakdos Charm", "Layline of the Void", "Red Elemental Blast", "Ravenous Trap", "Rack and Ruin"]
+
+ Cost: 1483.44
